@@ -1,2 +1,3 @@
-bingus > floppa
+bingus > floppa \n
+
 true
