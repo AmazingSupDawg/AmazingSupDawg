@@ -1,0 +1,47 @@
+{
+  "Water Bottle": {
+    "price": 100,
+    "description": "Verified Hydro homie moment",
+    "emoji": "🍼"
+  },
+  "Sunscreen": {
+    "price": 1000,
+    "description": "Your mom would be proud of you",
+    "emoji": "☀"
+  },
+  "Gnome \"Friend\"":
+  {
+   "price": 2500,
+    "description": "Sure Azra, just an unpaid \"Friend\"",
+    "emoji": "troll"
+  },
+  "Unmeltable Icecream": {
+    "price": 5000,
+    "description": "I have no clue what they froze it with"
+  },
+  "Editable Thermometer":
+  {
+    "price": 10000,
+    "description": "Before cranking it up to 100, verify it says Fahrenheit and not Celsius. Please."
+  },
+  "Golden Volleyball":
+  {
+    "price": 12500,
+    "description": "Maybe not the most practical. But it's an ultimate flex"
+  },
+  "Firefly Jar":
+  {
+    "price": 15000,
+    "description": "Look at em gooooo"
+  },
+  "Pirate Ship":
+  {"price": 20000,
+    "description": "YOOOO PIRATE TIMEEEE"
+  },
+  "you have too much money":
+  {
+    "price": 69420,
+  "description": "teehee funi number"
+  }
+
+}
