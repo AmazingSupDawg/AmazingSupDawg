@@ -1,19 +1,16 @@
 {
   "Water Bottle": {
     "price": 100,
-    "description": "Verified Hydro homie moment",
-    "emoji": "🍼"
+    "description": "Verified Hydro homie moment"
   },
   "Sunscreen": {
     "price": 1000,
-    "description": "Your mom would be proud of you",
-    "emoji": "☀"
+    "description": "Your mom would be proud of you"
   },
   "Gnome \"Friend\"":
   {
    "price": 2500,
-    "description": "Sure Azra, just an unpaid \"Friend\"",
-    "emoji": "troll"
+    "description": "Sure Azra, just an unpaid \"Friend\""
   },
   "Unmeltable Icecream": {
     "price": 5000,
